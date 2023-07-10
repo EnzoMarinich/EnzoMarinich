@@ -10,13 +10,13 @@ Actualmente, estoy buscando oportunidades emocionantes y desafiantes para contri
 ## ¿Qué tecnologías uso?
 Tengo experiencia en diversas tecnologías, entre otras:
 
-- Javascript
-- React.js
-- Express.js
-- Node.js
-- Sequelize
-- PostgreSQL
-- Redux
+- **Javascript**
+- **React.js**
+- **Express.js**
+- **Node.js**
+- **Sequelize**
+- **PostgreSQL**
+- **Redux**
 
 Siempre estoy abierto a aprender nuevas tecnologías y estoy dispuesto a adaptarme a diferentes herramientas y entornos de desarrollo.
 
