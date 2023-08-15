@@ -5,11 +5,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-
 ## Quién soy?
 ¡Hola! Soy Enzo Marincih, tengo 21 años y me desempeño como FullStack Developer. Con una sólida formación en Henry y Coderhouse.Tengo pasión por la tecnología, y disfruto de resolver desafios complejos que me llevan a mostrar mis habilidades y conocimientos.
 
