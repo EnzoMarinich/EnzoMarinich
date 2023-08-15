@@ -85,7 +85,3 @@ Actualmente, estoy buscando oportunidades emocionantes y desafiantes para contri
 </a>  
 </div>  
 
-
-Siempre estoy abierto a aprender nuevas tecnologías y estoy dispuesto a adaptarme a diferentes herramientas y entornos de desarrollo.
-
-¡No dudes en explorar mis proyectos y colaboraciones para conocer más sobre mi trabajo y experiencia! Si estás interesado en trabajar juntos o tienes alguna pregunta, estaré encantado de conectarte.
