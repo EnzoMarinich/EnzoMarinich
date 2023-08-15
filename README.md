@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Full Stack Developer**
 
 ## Quién soy?
-Tengo 21 años y me desempeño como FullStack Developer. Con una sólida formación en Henry y Coderhouse.Tengo pasión por la tecnología, y disfruto de resolver desafios complejos que me llevan a mostrar mis habilidades y conocimientos.
+Soy un chico de 21 años con una sólida formación en programacion adquirida en Henry y Coderhouse.Tengo pasión por la tecnología, y disfruto de resolver desafios complejos que me llevan a mostrar mis habilidades y conocimientos.
 
 ## ¿Qué hago?
 Me desempeño como FullStack Developer, me encanta desarrollar aplicaciones web y crear experiencias interactivas. Mi enfoque principal es crear soluciones eficientes, escalables y de alta calidad. Me siento cómodo trabajando tanto en el lado del cliente como en el lado del servidor, y me apasiona la intersección entre el diseño y la funcionalidad.
